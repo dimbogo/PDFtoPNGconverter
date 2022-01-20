@@ -18,6 +18,6 @@ Install poppler: conda install -c conda-forge poppler
 Install pdf2image: pip install pdf2image
 
 <b>How to Run:</b>
--You have to place the script file into the folder with pdf file(it should be the only file in that folder)
--Simply run the file in the terminal
--Images will save in the same directory
+-You have to place the script file into the folder with pdf file(it should be the only file in that folder)<br>
+-Simply run the file in the terminal<br>
+-Images will save in the same directory<br>
